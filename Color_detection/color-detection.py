@@ -1,6 +1,6 @@
 
 #------------------------ Input Image From User---------------------------#
-# For command line options 
+# This library For command line options 
 import argparse
 import cv2
 import numpy as np
